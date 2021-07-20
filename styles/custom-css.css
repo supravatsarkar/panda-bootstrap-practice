@@ -1,0 +1,20 @@
+.top-search{
+    width:340px;
+    background-color: rgba(128, 128, 128, 0.171);
+    
+}
+.fa-search{
+    position: absolute;
+    top: 13px;
+    right: 18px;
+}
+.panda-bg-carousel{
+    background-color: #FEEAE9;
+}
+.btn-panda{
+    /* width: 168px;
+    height: 52px; */
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    color: white;
+    font-size: 16px;
+}
