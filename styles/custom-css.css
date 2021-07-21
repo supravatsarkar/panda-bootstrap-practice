@@ -1,6 +1,6 @@
 .top-search{
     width:340px;
-    background-color: rgba(128, 128, 128, 0.171);
+    background-color: #F4F4F4;
     
 }
 .fa-search{
@@ -30,4 +30,27 @@
 }
 .bg-cat-shoe{
     background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+.product-bg{
+    background-color: #F4F4F4;
+}
+.btn-product{
+    background: #000000;
+    color: white;
+    font-size: 16px;
+    align-items: center;
+}
+.btn-product:hover{
+    color: #f4f4f4be;
+}
+.subcribe-sec{
+    background-color: #FFF2F1;
+    height: 455px;
+    border-radius: 10px;
+}
+.round-prodc-item{
+    border-radius: 20px;
+}
+.round-carousel{
+    border-radius: 10px;
 }
